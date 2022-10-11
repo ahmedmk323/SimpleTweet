@@ -39,7 +39,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 In detailed page of the tweet, I had an issue converting the tweet's creation time from UTC timezone to user's regional timezone. 
 The feature is implemented but not working as intended. 
 
